@@ -1,0 +1,27 @@
+leavey library 
+-118.282764,34.0218007
+
+Tommy Trojan
+-118.2854176,34.0205598
+
+Home
+-118.285533,34.030562
+
+SGM
+-118.2891548,34.0212409
+
+Lyon Center
+-118.288428,34.0244047 
+
+Exposition/Vermont
+-118.2911988,34.0180606
+
+Vermont/Jefferson
+-118.29186,34.025635
+
+Jefferson/Figueroa
+-118.28033,34.022263
+
+Figueroa/Exposition
+-118.281792,34.018791
+

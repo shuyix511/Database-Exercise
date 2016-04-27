@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+ <Style id="transBluePoly">
+ <LineStyle>
+ <width>1.5</width>
+ </LineStyle>
+ <PolyStyle>
+ <color>7dff0000</color>
+ </PolyStyle>
+ </Style> <Placemark>
+ <name>Polygon</name>
+ <styleUrl>#transBluePoly</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>  
+ -118.2911988,34.0180606,100
+ -118.281792,34.018791,100
+ -118.28033,34.022263,100
+ -118.285533,34.030562,100
+ -118.29186,34.025635,100 </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+ </Document>
+</kml>
+

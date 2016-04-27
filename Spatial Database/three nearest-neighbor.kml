@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"> <Document>
+ <name>Paths</name>
+ 
+<Style id="z1">
+	<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+
+ <Style id="yellowLineGreenPoly">
+	 <LineStyle>
+		 <color>7f00ffff</color>
+		 <width>4</width>
+	 </LineStyle>
+	 
+	 <PolyStyle>
+		<color>7f00ff00</color>
+	 </PolyStyle>
+ </Style> 
+ 
+<Placemark>
+	<name>Home</name>
+	<styleUrl>#z1</styleUrl>	
+	<Point>
+		<coordinates>-118.285533,34.030562</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>Lyon Center</name>
+	<styleUrl>#z1</styleUrl>
+	<Point>
+		<coordinates>-118.288428,34.0244047 </coordinates>
+	</Point>
+</Placemark>
+
+<Placemark><name>leavey library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282764,34.0218007</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Vermont/Jefferson</name>
+<styleUrl>#z1</styleUrl>
+<Point><coordinates>-118.29186,34.025635</coordinates>
+</Point>
+</Placemark>
+
+ <Placemark>
+	 <name>line1</name>
+	 <styleUrl>#yellowLineGreenPoly</styleUrl>
+	 <LineString>
+		
+		<tessellate>1</tessellate>
+		 <altitudeMode>absolute</altitudeMode>
+		 <coordinates> 
+			 -118.285533,34.030562,100
+			 -118.288428,34.0244047,100
+		 </coordinates>
+	 </LineString> 
+ </Placemark>
+ 
+ 
+ 
+ <Placemark>
+	 <name>line2</name>
+	 <styleUrl>#yellowLineGreenPoly</styleUrl>
+	 <LineString>
+		
+		<tessellate>1</tessellate>
+		 <altitudeMode>absolute</altitudeMode>
+		 <coordinates> 
+			-118.285533,34.030562,100
+			 -118.29186,34.025635,100
+		 </coordinates>
+	 </LineString> 
+ </Placemark>
+ 
+ <Placemark>
+	 <name>line3</name>
+	 <styleUrl>#yellowLineGreenPoly</styleUrl>
+	 <LineString>
+		
+		<tessellate>1</tessellate>
+		 <altitudeMode>absolute</altitudeMode>
+		 <coordinates> 
+			-118.285533,34.030562,100
+			-118.282764,34.0218007,100
+		 </coordinates>
+	 </LineString> 
+ </Placemark>
+ 
+ </Document> </kml>
+ 
+ 

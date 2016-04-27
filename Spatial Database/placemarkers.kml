@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>leavey library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282764,34.0218007</coordinates></Point>
+</Placemark>
+<Placemark><name>Tommy Trojan</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2854176,34.0205598</coordinates></Point>
+</Placemark>
+<Placemark><name>Home</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.285533,34.030562</coordinates></Point>
+</Placemark>
+<Placemark><name>SGM 124</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2891548,34.0212409</coordinates></Point>
+</Placemark>
+<Placemark><name>Lyon Center</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288428,34.0244047 </coordinates></Point>
+</Placemark>
+<Placemark><name>Exposition/Vermont</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2911988,34.0180606</coordinates></Point>
+</Placemark>
+<Placemark><name>Vermont/Jefferson</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29186,34.025635</coordinates></Point>
+</Placemark>
+<Placemark><name>Jefferson/Figueroa</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28033,34.022263</coordinates></Point>
+</Placemark>
+<Placemark><name>Figueroa/Exposition</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.281792,34.018791</coordinates></Point>
+</Placemark>
+ </Document>
+</kml>
+
